@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">PRYELLE</h1>
 
-<!--
-**pryelle/pryelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Every great idea needs somewhere to grow.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building PRYELLE. Exploring AI, software & technology.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About PRYELLE
+
+PRYELLE is an independent technology brand exploring the possibilities of artificial intelligence, software, and innovation.
+
+Our vision is to create meaningful technology and give new ideas room to grow.
+
+---
+
+<p align="center">
+  <i>Ideas begin here. Possibilities grow from here.</i>
