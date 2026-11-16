@@ -18,3 +18,7 @@ Our vision is to create meaningful technology and give new ideas room to grow.
 
 <p align="center">
   <i>Ideas begin here. Possibilities grow from here.</i>
+
+<p align="center">
+ <img src="pryelle-meadow.png.png" width="100%" alt="PRYELLE meadow artwork">
+</p>
